@@ -5,7 +5,7 @@
 
 ### About me
 
-Hey! I am Mishel, a future front-end developer. My goal, for now, is to improve all required for my dream job skills in order to get employed. My experience, for now, is creating pet projects and solving problems on codewars. However, I know: to achieve my goal I need to practice as much as possible so I signed up to RS School. I am sure that IT is the best work for me, I am a quick learner and the main thing - I adore coding. So... I am ready to work for the best result!
+Hey! I am Mishel, a future front-end developer. --My goal--, for now, is to improve all required for my dream job skills in order to get employed. My experience, for now, is creating pet projects and solving problems on codewars. However, I know: to achieve my goal I need to practice as much as possible so I signed up to RS School. I am sure that IT is the best work for me, I am a quick learner and the main thing - I adore coding. So... I am ready to work for the best result!
 
 ### Skills
 - JS
