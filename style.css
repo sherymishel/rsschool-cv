@@ -1,0 +1,48 @@
+.avatar__block img {
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid #111149;
+}
+
+.primary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.secondary {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  /*if you want to crop the image*/
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.secondary__main {
+  margin-left: 50px;
+  width: 30%;
+  padding-right: 30px;
+}
+
+.secondary__minor {
+  margin-left: 50px;
+  width: 33%;
+}
+
+.secondary section {
+  border: rgba(0, 128, 0, 0) 1px solid;
+  border-radius: 2%;
+  margin: 10px;
+  -webkit-transition: 0.3s background-color;
+  transition: 0.3s background-color;
+}
+
+.secondary section:hover {
+  background-color: rgba(0, 255, 255, 0.856);
+}
+/*# sourceMappingURL=style.css.map */
