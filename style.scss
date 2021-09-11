@@ -1,0 +1,45 @@
+.avatar {
+    &__block {
+        img {
+            width:  200px;
+            border-radius: 50%;
+            border: 5px solid #111149;
+            
+        }
+        
+    }
+}
+
+.primary {
+    display: flex;
+    align-items: center;
+}
+
+.secondary {
+        position: relative;
+        z-index:1;
+        overflow:hidden; /*if you want to crop the image*/
+  
+    display: flex;
+
+    &__main {
+        margin-left: 50px;
+        width: 30%;
+        padding-right: 30px;
+    }
+    &__minor {
+        margin-left: 50px;
+        width: 33%
+    }
+    & section {
+       border: rgba(0, 128, 0, 0) 1px solid;
+       border-radius: 2%;
+       margin: 10px;
+       transition: 0.3s background-color;
+    }
+    & section:hover {
+        background-color: rgba(0, 255, 255, 0.856);
+    }
+}
+
+    
